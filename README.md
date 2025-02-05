@@ -2,7 +2,7 @@
 
 ## Descripción
 
-DeepSeek es una aplicación web diseñada para [propósito de tu aplicación]. Utiliza Python y Flask para el backend, y Gunicorn como servidor WSGI. La aplicación se ejecuta dentro de un contenedor Docker para asegurar la consistencia y portabilidad en diferentes entornos.
+Este test de DeepSeek es una aplicación web diseñada como prueba para experimentar el potencial de DeepSeek-R1. Utiliza Python y Flask para el backend, y Gunicorn como servidor WSGI. La aplicación se ejecuta dentro de un contenedor Docker para asegurar la consistencia y portabilidad en diferentes entornos.
 
 ## Estructura del Proyecto
 
